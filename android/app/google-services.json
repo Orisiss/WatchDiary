@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026907864696",
+    "project_id": "watchdiary-fd847",
+    "storage_bucket": "watchdiary-fd847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026907864696:android:d236e0710e5177dc2ef78d",
+        "android_client_info": {
+          "package_name": "com.watchdiary.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0suZPsEQ917AeEbi-UfrhDDUwj-YAm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
