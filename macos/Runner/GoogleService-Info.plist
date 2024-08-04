@@ -2,18 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>950043804034-m36kdoj4730r50c7ta1mkoml067rmf3v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950043804034-m36kdoj4730r50c7ta1mkoml067rmf3v</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC9e0QkHLF-jgUp69Dy_DTq_fTEDsi7AW4</string>
+	<string>AIzaSyBoIyDdrj_9-EYpv9cski2MSR9jgTDDqGo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1026907864696</string>
+	<string>950043804034</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.watchdiary</string>
 	<key>PROJECT_ID</key>
-	<string>watchdiary-fd847</string>
+	<string>watchdiary-f5441</string>
 	<key>STORAGE_BUCKET</key>
-	<string>watchdiary-fd847.appspot.com</string>
+	<string>watchdiary-f5441.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1026907864696:ios:83734bd4a2eb51af2ef78d</string>
+	<string>1:950043804034:ios:3de69e4bcd671654f94f9b</string>
 </dict>
 </plist>

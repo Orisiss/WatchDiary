@@ -1,26 +1,43 @@
 {
   "project_info": {
-    "project_number": "1026907864696",
-    "project_id": "watchdiary-fd847",
-    "storage_bucket": "watchdiary-fd847.appspot.com"
+    "project_number": "950043804034",
+    "project_id": "watchdiary-f5441",
+    "storage_bucket": "watchdiary-f5441.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1026907864696:android:d236e0710e5177dc2ef78d",
+        "mobilesdk_app_id": "1:950043804034:android:51db5427c320bfc2f94f9b",
         "android_client_info": {
           "package_name": "com.watchdiary.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "950043804034-mkvfco67rf5idqnh92q928756klcnrsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAB0suZPsEQ917AeEbi-UfrhDDUwj-YAm4"
+          "current_key": "AIzaSyCdOG63-_UQPaZvW34PXISpj8GS5hxCj3g"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950043804034-a8ctt4qhn84n8sdem750ic7oaqg6fr3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950043804034-m36kdoj4730r50c7ta1mkoml067rmf3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.watchdiary"
+              }
+            }
+          ]
         }
       }
     }

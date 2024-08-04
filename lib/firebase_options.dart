@@ -41,48 +41,51 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCY5bDyjE1lC7YOUQjjistMlIwRaS8djbM',
-    appId: '1:1026907864696:web:ff1984c23825d7572ef78d',
-    messagingSenderId: '1026907864696',
-    projectId: 'watchdiary-fd847',
-    authDomain: 'watchdiary-fd847.firebaseapp.com',
-    storageBucket: 'watchdiary-fd847.appspot.com',
-    measurementId: 'G-WF78V0HHS9',
+    apiKey: 'AIzaSyA510TDKk-U-SRQImBIm_mrbTOYMpUrL_Y',
+    appId: '1:950043804034:web:da38fb09fe46fe5af94f9b',
+    messagingSenderId: '950043804034',
+    projectId: 'watchdiary-f5441',
+    authDomain: 'watchdiary-f5441.firebaseapp.com',
+    storageBucket: 'watchdiary-f5441.appspot.com',
+    measurementId: 'G-QTWCK387V7',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAB0suZPsEQ917AeEbi-UfrhDDUwj-YAm4',
-    appId: '1:1026907864696:android:d236e0710e5177dc2ef78d',
-    messagingSenderId: '1026907864696',
-    projectId: 'watchdiary-fd847',
-    storageBucket: 'watchdiary-fd847.appspot.com',
+    apiKey: 'AIzaSyCdOG63-_UQPaZvW34PXISpj8GS5hxCj3g',
+    appId: '1:950043804034:android:51db5427c320bfc2f94f9b',
+    messagingSenderId: '950043804034',
+    projectId: 'watchdiary-f5441',
+    storageBucket: 'watchdiary-f5441.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC9e0QkHLF-jgUp69Dy_DTq_fTEDsi7AW4',
-    appId: '1:1026907864696:ios:83734bd4a2eb51af2ef78d',
-    messagingSenderId: '1026907864696',
-    projectId: 'watchdiary-fd847',
-    storageBucket: 'watchdiary-fd847.appspot.com',
+    apiKey: 'AIzaSyBoIyDdrj_9-EYpv9cski2MSR9jgTDDqGo',
+    appId: '1:950043804034:ios:3de69e4bcd671654f94f9b',
+    messagingSenderId: '950043804034',
+    projectId: 'watchdiary-f5441',
+    storageBucket: 'watchdiary-f5441.appspot.com',
+    iosClientId: '950043804034-m36kdoj4730r50c7ta1mkoml067rmf3v.apps.googleusercontent.com',
     iosBundleId: 'com.example.watchdiary',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC9e0QkHLF-jgUp69Dy_DTq_fTEDsi7AW4',
-    appId: '1:1026907864696:ios:83734bd4a2eb51af2ef78d',
-    messagingSenderId: '1026907864696',
-    projectId: 'watchdiary-fd847',
-    storageBucket: 'watchdiary-fd847.appspot.com',
+    apiKey: 'AIzaSyBoIyDdrj_9-EYpv9cski2MSR9jgTDDqGo',
+    appId: '1:950043804034:ios:3de69e4bcd671654f94f9b',
+    messagingSenderId: '950043804034',
+    projectId: 'watchdiary-f5441',
+    storageBucket: 'watchdiary-f5441.appspot.com',
+    iosClientId: '950043804034-m36kdoj4730r50c7ta1mkoml067rmf3v.apps.googleusercontent.com',
     iosBundleId: 'com.example.watchdiary',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCY5bDyjE1lC7YOUQjjistMlIwRaS8djbM',
-    appId: '1:1026907864696:web:897f4146fb6808fa2ef78d',
-    messagingSenderId: '1026907864696',
-    projectId: 'watchdiary-fd847',
-    authDomain: 'watchdiary-fd847.firebaseapp.com',
-    storageBucket: 'watchdiary-fd847.appspot.com',
-    measurementId: 'G-B3S1KJHYEJ',
+    apiKey: 'AIzaSyA510TDKk-U-SRQImBIm_mrbTOYMpUrL_Y',
+    appId: '1:950043804034:web:eef2e93aa7f05164f94f9b',
+    messagingSenderId: '950043804034',
+    projectId: 'watchdiary-f5441',
+    authDomain: 'watchdiary-f5441.firebaseapp.com',
+    storageBucket: 'watchdiary-f5441.appspot.com',
+    measurementId: 'G-7X12TRYWRM',
   );
+
 }
